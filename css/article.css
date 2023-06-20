@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Rubik:wght@400;500;700;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Rubik:wght@400;500;700;900&display=swap");
+
+.same1 {
+  width: 794px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+.same {
+  font-weight: 500;
+}
+.paragraphs {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.monolog {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-top: 69px;
+}
+.monolog-line {
+  width: 794px;
+  height: 2px;
+  border: none;
+
+  background: #ebebeb;
+}
+.cards-title {
+  width: 170px;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.full-cards {
+  margin-top: 16px;
+}
+.nav-item-active {
+  color: rgba(41, 80, 145, 1);
+}
